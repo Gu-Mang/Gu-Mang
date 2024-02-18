@@ -1,7 +1,6 @@
 <h3 align="center"> ┏━━━━━━━━━━━━━━━━━༻❁༺━━━━━━━━━━━━━━━━━━┓ 
 <h3 align="center">  ☼ ☽ ⋆｡°✧  𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼 𝓬𝓸𝓸𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓛𝓸𝓿𝓮 𝓲𝓼 𝓬𝓸𝓸𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓪 𝓗𝓔𝓐𝓡𝓣  ✧⋆°｡ ☾ ☼
 
-
 ![image](https://github.com/Gu-Mang/Gu-Mang/assets/156284159/9707369b-d501-4f4b-8e8a-c9e8b3bccff1)
 
 <h1 align="center">
@@ -15,4 +14,5 @@
 <h3 align="center"> Hi! I'm a danish 20 year old male. I have ADHD and my favourite colour is Purple
 <h3 align="center"> Heres some of my obsessions: SVSSS, YUWU, Nan Chan, Dead Plate, Dragons and Sankes
 
-[^1]: Graphic cred theater-of-lies on Tumblr
+
+### ᴳʳᵃᵖʰⁱᶜ ᶜʳᵉᵈ ᵗʰᵉᵃᵗᵉʳ-ᵒᶠ-ˡⁱᵉˢ ᵒⁿ ᵀᵘᵐᵇˡʳ
