@@ -12,7 +12,7 @@
 <h1 align="center"> Little about me 
   
 <h3 align="center"> Hi! I'm a danish 20 year old male. I have ADHD and my favourite colour is Purple
-<h3 align="center"> Heres some of my obsessions: SVSSS, YUWU, Nan Chan, Dead Plate, Dragons and Sankes
+<h3 align="center"> Heres some of my obsessions: SVSSS, YUWU, Nan Chan, Dead Plate, Dragons and Snakes
 
 
 ### ᴳʳᵃᵖʰⁱᶜ ᶜʳᵉᵈ ᵗʰᵉᵃᵗᵉʳ-ᵒᶠ-ˡⁱᵉˢ ᵒⁿ ᵀᵘᵐᵇˡʳ
